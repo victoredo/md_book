@@ -1,0 +1,6 @@
+[book]
+authors = ["Victor Okon"]
+language = "en"
+multilingual = false
+src = "src"
+title = "test_book"
